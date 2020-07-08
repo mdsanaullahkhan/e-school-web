@@ -28,6 +28,17 @@ p{
     line-height: 36px;
     color: #6C6B6B;
 }
+.contain{
+    margin-bottom: 100px;
+}
+
+.orange-bg{
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
 
 
 .section-header h2{
