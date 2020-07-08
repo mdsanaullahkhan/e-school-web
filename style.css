@@ -29,7 +29,7 @@ p{
     color: #6C6B6B;
 }
 
-/* common css */
+
 .section-header h2{
     padding-bottom: 45px;
     font-style: normal;
@@ -55,7 +55,7 @@ a:hover {
     }
   }
 
-/* section background */
+
 section.header-section {
     background: #F0FFF0;
 }
@@ -66,7 +66,7 @@ footer{
     background: #282531;
 }
 
-/* button */
+
 .btn-primary{
     background: #21B573;
     border-radius: 33px;
@@ -88,7 +88,7 @@ footer{
     border: none;
 }
 
-/* navigation bar */
+
 
 li.nav-item:last-child {
     padding-right: 0;
@@ -103,7 +103,7 @@ a.navbar-brand {
     max-width: 200px;
 }
 
-/* banner section */
+
 .banner-content p{
     max-width: 403px;
 }
@@ -111,7 +111,7 @@ a.navbar-brand {
     color: #21B573;
 }
 
-/*summery card */
+
 .summery-section img.card-img-top {
     max-width: 80px;
     margin: 0 auto;
@@ -135,7 +135,7 @@ a.navbar-brand {
     border-radius: 10px;
 }
 
-/* book card */
+
 .book-section .card-img-top {
     padding: 20px;
 }
@@ -179,7 +179,7 @@ a.navbar-brand {
     margin-top: 20px;
 }
 
-/* testimonial */
+
 .testimonial-flex {
     display: flex;
     align-items: center;
@@ -193,7 +193,7 @@ a.navbar-brand {
     height: auto;
 }
 
-/* footer */
+
 
 footer p,footer li {
     color: #fff;
